@@ -1,0 +1,4 @@
+obscode module
+==============
+
+.. automodule:: obscode

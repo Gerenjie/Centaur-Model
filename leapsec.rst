@@ -1,0 +1,4 @@
+leapsec module
+==============
+
+.. automodule:: leapsec
